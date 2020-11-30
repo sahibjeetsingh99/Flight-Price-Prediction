@@ -1,0 +1,33 @@
+body {
+    background-image: url(flight.jpg)
+    text-align: center;
+}
+a {
+    color: #f1f9f9;
+}
+
+a:hover {
+    color: #f0f0f0;
+  }
+.heading{
+    align-content: center;
+    color: chartreuse;
+    font-size:2rem !important;
+}
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("fli");
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
